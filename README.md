@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi there! I'm Dzejkob
 
-<!--
-**TheDzejkob/TheDzejkob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Student | Aspiring Developer | Lifelong Learner
 
-Here are some ideas to get you started:
+💻 Passionate about coding, solving problems, and building web applications. Always eager to learn new technologies and improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Languages & Tools:
+
+Proficient in: C#, Python, JavaScript
+Web Development: HTML, CSS, React
+🌱 Currently Learning: C and will be looking into rust afterwards
+
+📈 Projects:
+
+RPG-WPF: C# WinForms text based game with crafting enemy encounters and item systems
+GSS-app: C# xaml app that simulates original software of industrial hot presses and machinary (managment of parts and such)
+nvim-config: My personal neovim config with help of a friend :) (still evolving)
+🛠️ Open to Collaborate: Excited about new opportunities and collaborations. Feel free to reach out!
