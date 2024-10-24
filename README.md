@@ -13,6 +13,10 @@ Web Development: HTML, CSS, React
 📈 Projects:
 
 RPG-WPF: C# WinForms text based game with crafting enemy encounters and item systems
+
 GSS-app: C# xaml app that simulates original software of industrial hot presses and machinary (managment of parts and such)
+
 nvim-config: My personal neovim config with help of a friend :) (still evolving)
+
+
 🛠️ Open to Collaborate: Excited about new opportunities and collaborations. Feel free to reach out!
