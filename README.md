@@ -2,7 +2,7 @@
 
 🔧 Student | Aspiring Developer | Lifelong Learner
 
-💻 Passionate about coding, solving problems, and building web applications. Always eager to learn new technologies and improve my skills.
+💻 Passionate about coding, solving problems, and building applications. Always eager to learn new technologies and improve my skills.
 
 📚 Languages & Tools:
 
