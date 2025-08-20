@@ -7,7 +7,7 @@
 📚 Languages & Tools:
 
 Proficient in: C#, Python, JavaScript, C++, Lua
-Web Development: HTML, CSS, React
+Web Development: HTML, CSS, React and a bit of Express 
 🌱 Currently Learning: C and will be looking into rust afterwards
 
 
