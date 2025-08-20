@@ -6,17 +6,9 @@
 
 📚 Languages & Tools:
 
-Proficient in: C#, Python, JavaScript
+Proficient in: C#, Python, JavaScript, C++, Lua
 Web Development: HTML, CSS, React
 🌱 Currently Learning: C and will be looking into rust afterwards
-
-📈 Projects:
-
-RPG-WPF: C# WinForms text based game with crafting enemy encounters and item systems
-
-GSS-app: C# xaml app that simulates original software of industrial hot presses and machinary (managment of parts and such)
-
-nvim-config: My personal neovim config with help of a friend :) (still evolving)
 
 
 🛠️ Open to Collaborate: Excited about new opportunities and collaborations. Feel free to reach out!
